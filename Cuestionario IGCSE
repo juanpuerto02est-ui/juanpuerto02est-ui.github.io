@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Cuestionario: Los Efectos del Uso de la TI</title>
+</head>
+<body>
+
+    <h1>Cuestionario: Los Efectos del Uso de la TI</h1><br>
+    <h3>Responde el siguiente cuestionario usando como referencial el libro de ICT paginas 99 a 105</h3>
+    <p>Nombre del estudiante:Juan Sebastian Puerto Trujillo</p>
+    <hr>
+
+    <h2>Preguntas de examen</h2>
+
+    <h3>Pregunta 1</h3>
+    <p>El uso de dispositivos controlados por microprocesador en el hogar afecta el tiempo libre de una persona, la interacción social y la necesidad de salir de casa.</p>
+    
+    <h4>a. Menciona tres ventajas para el individuo cuando se usan dispositivos controlados por microprocesador en el hogar.</h4>
+    <p><em>(Escribe aquí tus respuestas)</em></p>
+    <ul>
+        <li><b>Respuesta 1:Ofrecen a las personas más tiempo para actividades de ocio, aficiones, compras y socialización.</b> </li> 
+        <li><b>Respuesta 2:Mayor eficiencia energética</b> </li>
+        <li><b>Respuesta 3:La gente ya no tiene que realizar tareas manuales en casa.</b> </li>
+    </ul>
+
+    <h4>b. Menciona tres desventajas para el individuo cuando se usan dispositivos controlados por microprocesador en el hogar.</h4>
+    <p><em>(Escribe aquí tus respuestas)</em></p>
+    <ul>
+        <li><b>Respuesta 1:Como ocurre con cualquier dispositivo que contenga un microprocesador y pueda comunicarse a través de internet, existe el riesgo de amenazas de ciberseguridad.</b> </li>
+        <li><b>Respuesta 2:Dificiles de operar</b> </li>
+        <li><b>Respuesta 3:Los dispositivos que ahorran trabajo pueden conducir a estilos de vida poco saludables (debido a la falta de ejercicio): las personas pueden perder forma física si se quedan en casa sin hacer nada mientras los dispositivos realizan muchas de las tareas</b> </li>
+    </ul>
+
+    <hr>
+
+    <h3>Pregunta 2</h3>
+    <p>Usas un computador para hacer tu tarea. Te preocupan los problemas de salud que puede ocasionar el uso de un computador.</p>
+    <p><b>Discute las ventajas y desventajas de los diferentes métodos que podrías usar para ayudar a minimizar los problemas de salud al usar el computador.</b></p>
+    <p><em>(Escribe aquí tu discusión)</em></p>
+    <p><b>Respuesta: El uso de computador tiene varios problemas como crear tension en el cuello y la espalda una forma de reducir esto seria utilizar sillas adaptables o especiales para que tu postura sea la correcta y se evite este problema aunque el utilizar una silla mejor, no te va a ayudar a reducir el uso del computador entonces no se estarian evitando otros problemas como la vista cansada, una solucion para este otro problema seria usar pantallas que sean antideslumbrantes, usar este tipo de pantallas tambien va a ayudar a reducir problemas como los dolores de cabeza, entonces el usar pantallas antideslumbrantes seria una de las mejores soluciones porque nos ayudaria a reducir dos problemas. </b> </p>
+
+    <hr>
+
+    <h3>Pregunta 3</h3>
+    <p>Existen posibles problemas de seguridad al usar dispositivos controlados por microprocesador en el hogar.</p>
+
+    <h4>a. Describe estos problemas y explica cómo se pueden mitigar.</h4>
+    <p><em>(Escribe aquí tu descripción)</em></p>
+    <p><b>Respuesta:Al tener dispositivos controlados por microprocesador en el hogar, pueden haber multiples riesgos como, que si tienen contraseñas faciles o no instalas nuevas actualizaciones de software esto podria facilitar que el pirata informático acceda a tus datos.Hackeando el sistema de calefaccion, podria averiguar las fechas de las vacaciones lo que podria hacer que tu casa sea robada, otro riesgo es que si tienes una nevera inteligente y desde ahi haces pedidos el pirata informático puede obtener datos clave, como números de tarjetas de crédito. Todo esto se podria prevenir si usamos las medidas correctas como, tener una contraseña diferente en cada dispositivo u otra solución seria instalar actualizaciones de software. </b> </p>
+
+    <h4>b. Indica si las siguientes afirmaciones son Verdaderas o Falsas marcando la casilla apropiada con una 'X'.</h4>
+    
+    <table border="1">
+        <thead>
+            <tr>
+                <th>Afirmación</th>
+                <th>Verdadero [X]</th>
+                <th>Falso [X]</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>El uso de microprocesadores ha aumentado la longevidad de los dispositivos en el hogar, reduciendo así los residuos.</td>
+                <td> </td>
+                <td>X </td>
+            </tr>
+            <tr>
+                <td>Los dispositivos controlados por microprocesador son mucho más eficientes energéticamente.</td>
+                <td>X </td>
+                <td> </td>
+            </tr>
+            <tr>
+                <td>Los televisores inteligentes son un ejemplo de un dispositivo que ahorra trabajo.</td>
+                <td>X </td>
+                <td> </td>
+            </tr>
+            <tr>
+                <td>Los dispositivos controlados por microprocesador en el hogar no son vulnerables a ataques de virus o hackers.</td>
+                <td> </td>
+                <td>X </td>
+            </tr>
+            <tr>
+                <td>Los dispositivos controlados por microprocesador, como los smartphones, no tienen impacto en las interacciones sociales.</td>
+                <td> </td>
+                <td>X </td>
+            </tr>
+        </tbody>
+    </table>
+
+    <hr>
+    
+    <h3>Pregunta 4</h3>
+    <p>Se muestran cinco afirmaciones a la izquierda y once términos de TIC a la derecha. <b>Dibuja flechas para conectar cada afirmación con su término correcto.</b> (Nota: Como no se pueden dibujar flechas en HTML, escribe el término correcto al lado de cada afirmación).</p>
+
+    <ul>
+        <li>Nombre dado a los vehículos sin conductor, como carros, camionetas y buses: <b><em>(Autonomus)</em></b></li>
+        <li>Un tipo de señal de tráfico 'inteligente' utilizada para monitorear y controlar el tráfico vial: <b><em>(Smart)</em></b></li>
+        <li>Nombre dado a los hackers y otras personas que intentan irrumpir en los sistemas de TIC: <b><em>(Cybercriminal)</em></b></li>
+        <li>Nombre del tipo de riesgo asociado con el gas ozono que alcanza niveles altos: <b><em>(Health)</em></b></li>
+        <li>Significado de la letra 'R' en RSI (Lesión por Esfuerzo Repetitivo): <b><em> (Repetitive)</em></b></li>
+    </ul>
+
+    <p><em>Términos disponibles: Monitor, Cybercriminal, Autonomous, Regular, Smart, Restorative, Automatic, Repetitive, Clever, Health, Control.</em></p>
+    
+    <hr>
+    
+    <h3>Pregunta 5</h3>
+
+    <h4>a. Describe las ventajas de tener las principales carreteras controladas y monitoreadas por señales de tráfico inteligentes.</h4>
+    <p><em>(Escribe aquí tu descripción)</em></p>
+    <p><b>Respuesta:Las principales ventajas serian, reduce los trancones y tiempos de viaje, el transporte se vuelve más eficiente, mediante el sistema ANPR, se pueden sancionar automáticamente infracciones detectar carros robados o a los delincuentes, y por ultimo al usar estos sistemas se reducen los errores humanos, lo que reduciria las accidentes.</b> </p>
+
+    <h4>b. Describe los riesgos de tener señales de tráfico inteligentes bajo control informático.</h4>
+    <p><em>(Escribe aquí tu descripción)</em></p>
+    <p><b>Respuesta:Aunque tambien exiten riesgos y deventajas como, que un pirata informatico entre al sistema y cause interrupciones, que si el sistema falla el trafico quedaria quieto, u otro gran riesgo podria ser que si un sistema esta mal diseñado podrian haber problemas mucho mas grandes que involucren la seguridad de las personas.</b> </p>
+    
+</body>
+</html>
