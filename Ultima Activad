@@ -1,0 +1,73 @@
+<html>
+   <body>   
+       <h1> Booking Systems</h1>
+       <p><b>Descipcion</b></p>
+       <b><p>Los sistemas de reserva son plataformas o software que permiten gestionar y facilitar el proceso de reserva de servicios, productos o espacios. Están diseñados para hacer que la interacción entre proveedores de servicios (como hoteles, aerolíneas, restaurantes, eventos, entre otros) y clientes sea más eficiente, rápida y organizada. Estos sistemas automatizan muchas de las tareas involucradas en la gestión de reservas, como la disponibilidad, la confirmación, la cancelación y el pago.</p></b>
+       <i>Advantages</i>
+       <ul Type=square>
+       <li> Evitan las reservas duplicadas. </li>
+       <li>El cliente puede hacer reservas a cualquier hora del día. </li>
+       <li>El cliente recibe información inmediata sobre la disponibilidad de asientos y 
+        si su reserva se ha realizado correctamente. </li>
+        <li>El correo electrónico del cliente permite a la empresa de reservas enviar «ofertas especiales» a 
+su correo electrónico e informarle automáticamente de dichas ofertas. </li>
+        <li>Por lo general, es más fácil consultar los planos de asientos (especialmente en los vuelos) para 
+elegir los mejores asientos disponibles al mejor precio. </li>
+        <li> Es posible «reservar» un asiento durante un periodo de tiempo, lo que permite al cliente «decidirse» antes de finalizar la reserva del asiento (esto era difícil de hacer con los antiguos sistemas en papel). </li>
+        <li> Muy a menudo no hay boletos impresos, lo que ahorra gastos de envío y también 
+permite reservas «impulsivas» con solo unas horas de antelación. </li>
+        <li> La reserva en línea permite el uso de la moderna tecnología de aplicaciones para teléfonos inteligentes y tabletas; 
+se envía al cliente un código QR que contiene toda la información necesaria para la reserva (este código QR se almacena en el teléfono inteligente o la tableta y solo es necesario escanearlo, por ejemplo, en el teatro o el aeropuerto a la llegada). 
+</li>
+        </ul>
+       <i>Disadvantages</i>
+       <ul Type=square>
+       <li> La configuración y el mantenimiento de los sistemas de reserva en línea son costosos. </li>
+       <li>A menudo es más difícil cancelar la reserva y recuperar el dinero utilizando 
+       }    los sistemas en línea.  </li>
+       <li>Todos los clientes que utilizan este servicio necesitan tener acceso a una computadora o un teléfono móvil 
+      y una conexión a Internet confiable.</li>
+      <li>Si el servidor está fuera de servicio por mantenimiento o si el sistema falla, 
+resulta imposible reservar asientos por ningún método (no se pueden utilizar sistemas temporales en papel por el riesgo de que se produzcan reservas duplicadas). </li>
+      <li> Si los sitios web no están bien diseñados, puede resultar difícil realizar exactamente 
+la reserva que se desea o se pueden cometer errores; esto es un problema especialmente grave en el caso de las reservas de vuelos, en las que corregir un error puede suponer un costo adicional para el cliente. </li> 
+      <li>Las reservas en línea no permiten establecer una relación personal con un 
+agente de viajes que podría ofrecer mejoras gratuitas u ofertas especiales que quizá no estén disponibles para las reservas en línea. 
+</li> 
+    </ul>  
+     <p><b>El sector turístico </b></p>
+     <p>Como ejemplo, consideraremos la reserva de un vuelo en línea. En la pantalla aparecerá un formulario similar al que se muestra en la figura 6.17. El usuario solo tiene que rellenar los campos correspondientes y el sistema buscará automáticamente los vuelos disponibles, realizará la reserva y transferirá los fondos desde su cuenta bancaria. A menos que surja algún problema, no será necesario hablar con un operador humano en ninguna fase del proceso de reserva. 
+</p>
+      <center><a href="imagen.html">Imagen sector turistico</a></center>
+      <p><b>Eventos como conciertos, teatros y cines.  </b></p>
+      <center><a href="imagen2.html">Imagen Eventos</a></center>
+      <p>Ahora analizaremos el sistema de reservas en línea al intentar reservar entradas para un concierto, una obra de teatro o una película. Dado que los tres ejemplos implican reservar asientos dentro de un edificio equipado con butacas, utilizaremos el mismo sistema de reservas para los tres. Con el ejemplo elegido, hemos supuesto que el cliente ya ha iniciado sesión en el sitio web de reservas de eventos (y que el evento es un concierto de música en un recinto con asientos). </p>
+      <ul Type=square>
+         <li>El cliente hace clic en la función que desea ver.  Se introduce la fecha y la hora. </li> 
+         <li>También se introduce el número de asientos requeridos. </li>
+         <li> La pantalla muestra la distribución de los asientos en la sala. </li>
+         <li>El usuario selecciona su(s) asiento(s) resaltando los asientos reales en la pantalla y, a continuación, hace clic en CONFIRMAR para pasar a la siguiente parte del proceso. </li>
+         <li>A continuación, se busca en la base de datos para comprobar la disponibilidad de los asientos seleccionados. </li>
+         <li> Si los asientos están disponibles, se muestra el precio total más los números de asiento; esto 
+aparece en otra pantalla de la página web. </li>
+         <li>Si el cliente está de acuerdo, selecciona CONFIRMAR en la pantalla.</li>
+         <li>Los asientos quedan ahora reservados temporalmente y el sistema los marca como NO DISPONIBLES ,
+ lo que impide que otras personas los reserven. </li>
+         <li> A continuación, el cliente introduce sus datos personales o indica que es un cliente habitual (en cuyo caso, el sitio web que está utilizando ya dispondrá de sus datos). </li>
+         <li>A continuación, se selecciona el método de pago y se realiza el pago. </li>
+         <li>Las entradas para el teatro se reservan a nombre del cliente. </li>
+         <li>Los datos finales se muestran de nuevo en la pantalla. 
+ Se envía un correo electrónico al cliente que puede contener un código QR con 
+todos los detalles de la reserva (que actúa como su entrada electrónica); a continuación, el código QR se 
+escanea en el recinto. </li>
+          <li>Por último, la base de datos se actualiza con la transacción de la reserva y las butacas 
+quedan confirmadas de forma permanente como no disponibles. </li>
+      </ul>
+       <p><b> Reserva de eventos deportivos   </b></p>
+         <p>Reservar un evento deportivo es muy similar al ejemplo anterior. De nuevo, dependiendo del evento, el sistema de reservas online mostrará un plano de asientos. </p>
+        <center><a href="imagen3.html">Imagen estadio</a></center>
+        <p>El cliente deberá seleccionar el evento, los días deseados, el número de personas y los asientos preferidos. Dado que los asientos suelen venderse en bloques, se buscará en la base de datos si hay asientos disponibles en la fecha elegida. Los asientos disponibles no aparecerán en el mapa de reservas, a diferencia del sistema de reservas de conciertos/cines. Si hay disponibilidad, se ofrecerán al cliente asientos en el bloque. Si el cliente está satisfecho con la opción, solo tiene que confirmar la reserva y realizar el pago en línea. La confirmación se enviará por correo electrónico y/o, posiblemente, mediante un código QR, que se puede descargar en el smartphone del cliente; este código QR servirá como entrada(s) al evento. Algunos eventos deportivos no reservan asientos (como los torneos de golf), en cuyo caso la reserva será simplemente la entrada al evento. 
+Las ventajas y desventajas de reservar eventos deportivos en línea son las mismas que las de reservar entradas para conciertos y cines en línea. 
+Una característica adicional que se ofrece a menudo con los eventos deportivos es la posibilidad de reservar también vuelos y hoteles si el evento tiene lugar en el extranjero. </p>
+   </body>
+</html>
